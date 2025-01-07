@@ -52,32 +52,6 @@ Apply graph cut methods to classification tasks and segmentation problems.
 - Image segmentation and classification using energy minimization.  
 - Integration of graph theory into machine learning workflows.  
 
----
-
-## **How to Use This Repository**
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the desired lab folder:
-   ```bash
-   cd lab-1-markovian-models
-   ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the notebooks in your preferred environment (e.g., Jupyter Notebook or VS Code).
 
 ---
 
-## **Contributing**
-
-Contributions are welcome! If you find an issue or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
----
-
-## **License**
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
